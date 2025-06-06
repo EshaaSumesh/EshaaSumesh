@@ -54,7 +54,7 @@ Actively participating in picoCTF and team-based CTF challenges, focusing on:
 - **Machine Learning**: NumPy, scikit-learn, Librosa (for speech analysis)  
 - **Android Development**: Kotlin, Android Studio  
 - **CTF & Reverse Engineering**: Ghidra, CyberChef, Linux utilities  
-- **Version Control**: Git, GitHub  
+
 
 ## Currently Exploring
 
