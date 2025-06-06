@@ -62,7 +62,7 @@ Actively participating in picoCTF and team-based CTF challenges, focusing on:
 - Real-world blockchain deployment beyond testnets  
 - Bug bounty methodologies and responsible disclosure  
 - System design best practices for secure application architecture  
-- Preparing for competitive cybersecurity roles (e.g., Citi Cyber Security Analyst Program 2026)
+- Preparing for competitive cybersecurity roles 
 
 ## Let’s Connect
 
